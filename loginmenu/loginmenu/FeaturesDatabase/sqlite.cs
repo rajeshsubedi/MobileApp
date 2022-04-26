@@ -45,10 +45,5 @@ namespace loginmenu.FeaturesDatabase
         {
             return db.Table<EmployeeModel>().Where(p => p.Name.StartsWith(search)).ToListAsync();
         }
-
-        internal Task DeleteEmployee(EmployeeModel emp)
-        {
-            throw new NotImplementedException();
-        }
     }
 }

@@ -51,7 +51,7 @@ namespace loginmenu
             var result = await DisplayAlert("Delete ", $"Delete {emp.Name} from the database", "Yes", "No");
        if(result)
             {
-                //await App.MyDatabase.DeleteEmployee(emp);
+                await App.MyDatabase.DeleteEmployee(emp);
                 //to refresh fastly
                 myCollectionView.ItemsSource = await App.MyDatabase.ReadEmployees();
             }
