@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="loginmenu.Feature2"
+             Title="Employees"
+             BackgroundColor="LightGray">
+
+
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Add"
+                     Clicked="ToolbarItem_Clicked"/>
+    </ContentPage.ToolbarItems>
+    
+    <StackLayout>
+        <SearchBar Placeholder="Search Employee"
+                   TextChanged="SearchBar_TextChanged" TextColor="White"/>
+
+        <CollectionView x:Name="myCollectionView"
+                        SelectionMode="Single"
+                        Margin="10,10,10,0">
+        
+        <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <SwipeView>
+
+                     <SwipeView.RightItems>
+                            <SwipeItems>
+                                <SwipeItem Text="Edit"
+                                           BackgroundColor="SkyBlue"
+                                           CommandParameter="{Binding }"
+                                           Invoked="SwipeItem_Invoked" /> 
+                                
+                            <SwipeItem Text="Delete"
+                                           BackgroundColor="IndianRed"
+                                           CommandParameter="{Binding }"
+                                           Invoked="SwipeItem_Invoked_1"/> 
+                        </SwipeItems>
+                        </SwipeView.RightItems>
+
+                        <Grid RowSpacing="0" BackgroundColor="#E8ECF0">
+                            
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="*"/>
+
+                            </Grid.RowDefinitions>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="30"/>
+                                <ColumnDefinition Width="*"/>
+                            </Grid.ColumnDefinitions>
+
+
+
+                            <Line Grid.RowSpan="1" Grid.ColumnSpan="2" X1="0" Y1="0" X2="393"  Y2="0" 
+                                     Stroke="lightgray" StrokeThickness="10" ></Line>   
+                           
+
+
+                            <Label Text="{Binding ID}"
+                           Grid.Row="0" Grid.RowSpan="2"
+                           HorizontalOptions="CenterAndExpand"
+                           VerticalOptions="CenterAndExpand" TextColor="Black" Margin="8,0,5,0"/>
+
+                                    <Label Text="{Binding Name}"
+                           Grid.Row="0" Grid.Column="1"
+                           VerticalOptions="CenterAndExpand"
+                           FontSize="15"
+                           FontAttributes="Bold" TextColor="Black" Margin="5,5,0,0"/>
+
+                                    <Label Text="{Binding Address}"
+                           Grid.Row="1" Grid.Column="1" TextColor="Black" Margin="5,0,0,5"/>
+                                    
+                              
+                            
+                        </Grid>
+                    </SwipeView>
+                </DataTemplate>
+        </CollectionView.ItemTemplate>
+        </CollectionView>
+    </StackLayout>
+</ContentPage>

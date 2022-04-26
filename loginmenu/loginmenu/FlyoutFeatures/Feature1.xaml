@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="loginmenu.Feature1"
+             BackgroundColor="#112B47">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Add"
+             
+                 Order="Primary"
+                 Priority="0"
+                     />
+    </ContentPage.ToolbarItems>
+
+    <StackLayout Margin="20,35,20,20">
+        <Entry x:Name="nameEntry"
+               Placeholder="Enter name" TextColor="White"/>
+        <Entry x:Name="ageEntry"
+               Placeholder="Enter age" TextColor="White" />
+        <Button Text="Add to Database"
+                Clicked="OnButtonClicked" />
+        <CollectionView x:Name="collectionView">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <StackLayout>
+                        <Label Text="{Binding Name}"
+                               FontSize="Subtitle" TextColor="White"/>
+                        <Label Text="{Binding Age}"
+                               TextColor="Silver"
+                               FontSize="Small" />
+                    </StackLayout>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+    </StackLayout>
+
+</ContentPage>

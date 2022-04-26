@@ -1,0 +1,76 @@
+C:\Users\hp\source\repos\loginmenu\loginmenu\loginmenu\obj\Debug\netstandard2.0\loginmenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\loginmenu\loginmenu\loginmenu\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\hp\source\repos\loginmenu\loginmenu\loginmenu\obj\Debug\netstandard2.0\Homepage.xaml.g.cs
+C:\Users\hp\source\repos\loginmenu\loginmenu\loginmenu\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\hp\source\repos\loginmenu\loginmenu\loginmenu\obj\Debug\netstandard2.0\RegisterPage.xaml.g.cs
+C:\Users\hp\source\repos\loginmenu\loginmenu\loginmenu\obj\Debug\netstandard2.0\loginmenu.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\loginmenu\loginmenu\loginmenu\obj\Debug\netstandard2.0\loginmenu.AssemblyInfo.cs
+C:\Users\hp\source\repos\loginmenu\loginmenu\loginmenu\obj\Debug\netstandard2.0\loginmenu.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\loginmenu\loginmenu\loginmenu\bin\Debug\netstandard2.0\loginmenu.deps.json
+C:\Users\hp\source\repos\loginmenu\loginmenu\loginmenu\bin\Debug\netstandard2.0\loginmenu.dll
+C:\Users\hp\source\repos\loginmenu\loginmenu\loginmenu\bin\Debug\netstandard2.0\ref\loginmenu.dll
+C:\Users\hp\source\repos\loginmenu\loginmenu\loginmenu\bin\Debug\netstandard2.0\loginmenu.pdb
+C:\Users\hp\source\repos\loginmenu\loginmenu\loginmenu\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\hp\source\repos\loginmenu\loginmenu\loginmenu\obj\Debug\netstandard2.0\loginmenu.dll
+C:\Users\hp\source\repos\loginmenu\loginmenu\loginmenu\obj\Debug\netstandard2.0\ref\loginmenu.dll
+C:\Users\hp\source\repos\loginmenu\loginmenu\loginmenu\obj\Debug\netstandard2.0\loginmenu.pdb
+C:\Users\hp\source\repos\loginmenu\loginmenu\loginmenu\obj\Debug\netstandard2.0\HomePageDetail.xaml.g.cs
+C:\Users\hp\source\repos\loginmenu\loginmenu\loginmenu\obj\Debug\netstandard2.0\HomePageFlyout.xaml.g.cs
+C:\Users\hp\source\repos\loginmenu\loginmenu\loginmenu\obj\Debug\netstandard2.0\Feature1.xaml.g.cs
+C:\Users\hp\source\repos\loginmenu\loginmenu\loginmenu\obj\Debug\netstandard2.0\Feature2.xaml.g.cs
+C:\Users\hp\source\repos\loginmenu\loginmenu\loginmenu\obj\Debug\netstandard2.0\Feature3.xaml.g.cs
+C:\Users\hp\source\repos\loginmenu\loginmenu\loginmenu\obj\Debug\netstandard2.0\Feature4.xaml.g.cs
+C:\Users\hp\source\repos\loginmenu\loginmenu\loginmenu\obj\Debug\netstandard2.0\Logout.xaml.g.cs
+C:\Users\hp\source\repos\loginmenu\loginmenu\loginmenu\obj\Debug\netstandard2.0\loginmenu.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\loginsql\loginmenu\loginmenu\bin\Debug\netstandard2.0\loginmenu.deps.json
+C:\Users\hp\source\repos\loginsql\loginmenu\loginmenu\bin\Debug\netstandard2.0\loginmenu.dll
+C:\Users\hp\source\repos\loginsql\loginmenu\loginmenu\bin\Debug\netstandard2.0\ref\loginmenu.dll
+C:\Users\hp\source\repos\loginsql\loginmenu\loginmenu\bin\Debug\netstandard2.0\loginmenu.pdb
+C:\Users\hp\source\repos\loginsql\loginmenu\loginmenu\obj\Debug\netstandard2.0\loginmenu.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\loginsql\loginmenu\loginmenu\obj\Debug\netstandard2.0\loginmenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\loginsql\loginmenu\loginmenu\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\hp\source\repos\loginsql\loginmenu\loginmenu\obj\Debug\netstandard2.0\Feature1.xaml.g.cs
+C:\Users\hp\source\repos\loginsql\loginmenu\loginmenu\obj\Debug\netstandard2.0\Feature2.xaml.g.cs
+C:\Users\hp\source\repos\loginsql\loginmenu\loginmenu\obj\Debug\netstandard2.0\Feature3.xaml.g.cs
+C:\Users\hp\source\repos\loginsql\loginmenu\loginmenu\obj\Debug\netstandard2.0\Feature4.xaml.g.cs
+C:\Users\hp\source\repos\loginsql\loginmenu\loginmenu\obj\Debug\netstandard2.0\Homepage.xaml.g.cs
+C:\Users\hp\source\repos\loginsql\loginmenu\loginmenu\obj\Debug\netstandard2.0\HomepageDetail.xaml.g.cs
+C:\Users\hp\source\repos\loginsql\loginmenu\loginmenu\obj\Debug\netstandard2.0\HomepageFlyout.xaml.g.cs
+C:\Users\hp\source\repos\loginsql\loginmenu\loginmenu\obj\Debug\netstandard2.0\Logout.xaml.g.cs
+C:\Users\hp\source\repos\loginsql\loginmenu\loginmenu\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\hp\source\repos\loginsql\loginmenu\loginmenu\obj\Debug\netstandard2.0\RegisterPage.xaml.g.cs
+C:\Users\hp\source\repos\loginsql\loginmenu\loginmenu\obj\Debug\netstandard2.0\loginmenu.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\loginsql\loginmenu\loginmenu\obj\Debug\netstandard2.0\loginmenu.AssemblyInfo.cs
+C:\Users\hp\source\repos\loginsql\loginmenu\loginmenu\obj\Debug\netstandard2.0\loginmenu.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\loginsql\loginmenu\loginmenu\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\hp\source\repos\loginsql\loginmenu\loginmenu\obj\Debug\netstandard2.0\loginmenu.dll
+C:\Users\hp\source\repos\loginsql\loginmenu\loginmenu\obj\Debug\netstandard2.0\ref\loginmenu.dll
+C:\Users\hp\source\repos\loginsql\loginmenu\loginmenu\obj\Debug\netstandard2.0\loginmenu.pdb
+C:\Users\hp\source\repos\loginsql\loginmenu\loginmenu\obj\Debug\netstandard2.0\EmployeeDetail.xaml.g.cs
+C:\Users\hp\source\repos\loginsql\loginmenu\loginmenu\obj\Debug\netstandard2.0\Activationpage.xaml.g.cs
+C:\Users\hp\source\repos\loginsql - Copy\loginmenu\loginmenu\obj\Debug\netstandard2.0\loginmenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\loginsql - Copy\loginmenu\loginmenu\obj\Debug\netstandard2.0\Activationpage.xaml.g.cs
+C:\Users\hp\source\repos\loginsql - Copy\loginmenu\loginmenu\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\hp\source\repos\loginsql - Copy\loginmenu\loginmenu\obj\Debug\netstandard2.0\Homepage.xaml.g.cs
+C:\Users\hp\source\repos\loginsql - Copy\loginmenu\loginmenu\obj\Debug\netstandard2.0\HomepageDetail.xaml.g.cs
+C:\Users\hp\source\repos\loginsql - Copy\loginmenu\loginmenu\obj\Debug\netstandard2.0\HomepageFlyout.xaml.g.cs
+C:\Users\hp\source\repos\loginsql - Copy\loginmenu\loginmenu\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\hp\source\repos\loginsql - Copy\loginmenu\loginmenu\obj\Debug\netstandard2.0\RegisterPage.xaml.g.cs
+C:\Users\hp\source\repos\loginsql - Copy\loginmenu\loginmenu\obj\Debug\netstandard2.0\loginmenu.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\loginsql - Copy\loginmenu\loginmenu\obj\Debug\netstandard2.0\loginmenu.AssemblyInfo.cs
+C:\Users\hp\source\repos\loginsql - Copy\loginmenu\loginmenu\obj\Debug\netstandard2.0\loginmenu.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\loginsql - Copy\loginmenu\loginmenu\obj\Debug\netstandard2.0\loginmenu.dll
+C:\Users\hp\source\repos\loginsql - Copy\loginmenu\loginmenu\obj\Debug\netstandard2.0\ref\loginmenu.dll
+C:\Users\hp\source\repos\loginsql - Copy\loginmenu\loginmenu\obj\Debug\netstandard2.0\loginmenu.pdb
+C:\Users\hp\source\repos\loginsql - Copy\loginmenu\loginmenu\bin\Debug\netstandard2.0\loginmenu.deps.json
+C:\Users\hp\source\repos\loginsql - Copy\loginmenu\loginmenu\bin\Debug\netstandard2.0\loginmenu.dll
+C:\Users\hp\source\repos\loginsql - Copy\loginmenu\loginmenu\bin\Debug\netstandard2.0\ref\loginmenu.dll
+C:\Users\hp\source\repos\loginsql - Copy\loginmenu\loginmenu\bin\Debug\netstandard2.0\loginmenu.pdb
+C:\Users\hp\source\repos\loginsql - Copy\loginmenu\loginmenu\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\hp\source\repos\loginsql - Copy\loginmenu\loginmenu\obj\Debug\netstandard2.0\FlyoutFeatures\Feature1.xaml.g.cs
+C:\Users\hp\source\repos\loginsql - Copy\loginmenu\loginmenu\obj\Debug\netstandard2.0\FlyoutFeatures\Feature3.xaml.g.cs
+C:\Users\hp\source\repos\loginsql - Copy\loginmenu\loginmenu\obj\Debug\netstandard2.0\FlyoutFeatures\Feature4.xaml.g.cs
+C:\Users\hp\source\repos\loginsql - Copy\loginmenu\loginmenu\obj\Debug\netstandard2.0\FlyoutFeatures\Features2\EmployeeDetail.xaml.g.cs
+C:\Users\hp\source\repos\loginsql - Copy\loginmenu\loginmenu\obj\Debug\netstandard2.0\FlyoutFeatures\Features2\Feature2.xaml.g.cs
+C:\Users\hp\source\repos\loginsql - Copy\loginmenu\loginmenu\obj\Debug\netstandard2.0\FlyoutFeatures\Logout.xaml.g.cs
+C:\Users\hp\source\repos\loginsql - Copy\loginmenu\loginmenu\obj\Debug\netstandard2.0\loginmenu.csproj.AssemblyReference.cache
